@@ -11,12 +11,15 @@ html {
 body {
   font-size: 1.6rem;
   font-family: 'Outfit', sans-serif;
+  margin: 0 1rem;
+  background-color: hsl(212, 45%, 89%);
+}
+
+main {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 1rem;
-  background-color: hsl(212, 45%, 89%);
 }
 
 .qr-container {
