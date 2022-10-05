@@ -2,6 +2,10 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+## Screenshot
+
+![](./screenshot.png)
+
 ## Links
 
 - Solution URL: (https://github.com/michallides/qr-code-component_FM)
