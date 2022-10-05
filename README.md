@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://github.com/michallides/qr-code-component_FM]
-- Live Site URL: [https://michallides.github.io/qr-code-component_FM/]
+- Solution URL: [https://github.com/michallides/qr-code-component_FM](https://github.com/michallides/qr-code-component_FM)
+- Live Site URL: [https://michallides.github.io/qr-code-component_FM/](https://michallides.github.io/qr-code-component_FM/)
 
 ## Built with
 
